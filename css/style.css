@@ -9,11 +9,15 @@
 body {
   max-width:320px;
   margin:0 auto;
+  background-size: cover;
+  background-image: url("http://wallpaperpanda.com/wallpapers/acd/e9e/acde9e4cG.jpg");
 }
+
 h1 {
   font-size:52px;
   text-align: center;
   font-weight:300;
+  color: white;
   margin:10px 0 20px 0;
 }
 input {
